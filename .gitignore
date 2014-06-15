@@ -35,5 +35,10 @@ Icon
 .Spotlight-V100
 .Trashes
 
+#Unity3d
 Library
 Temp
+*. pidb
+*. unityproj
+* .. sln
+*. userprefs
